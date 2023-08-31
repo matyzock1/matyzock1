@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/22770735/89309664-543b5d00-d691-11ea-9401-1780241ed053.gif" alt="Snake animation" />
+<img align="center" src="https://user-images.githubusercontent.com/22770735/89309664-543b5d00-d691-11ea-9401-1780241ed053.gif" alt="Snake animation" />
 
 ###
