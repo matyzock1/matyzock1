@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img align="center" src="https://user-images.githubusercontent.com/22770735/89309664-543b5d00-d691-11ea-9401-1780241ed053.gif" alt="Snake animation" />
+![github contribution grid snake animation](https://raw.githubusercontent.com/matyzock1/matyzock1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/matyzock1/matyzock1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ###
