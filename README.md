@@ -71,3 +71,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/matyzock1/matyzock1/output/snake.svg" alt="Snake animation" />
+
+###
