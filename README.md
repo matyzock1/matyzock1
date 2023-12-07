@@ -1,4 +1,9 @@
-<h2 align="left">Matías Aravena 🦇 | Software Engineer 💻</h2>
+<h2 align="center">Matías Aravena 🦇 | Software Engineer 💻</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matyzock1&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matyzock1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88341460/189536974-e0965a1d-3cc8-4507-a4c8-77aaa778a5c1.gif" alt="Descripción opcional">
